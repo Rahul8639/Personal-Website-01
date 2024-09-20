@@ -600,17 +600,20 @@ nav a{
 }
 #exp-centre h1{
     font-family: 'Neue';
+    animation: p-fade 1s .2s backwards;
 }
 #exp-centre h2{
     font-size: 46px;
     font-family: 'Neue';
     line-height: 3.6rem;
+    animation: p-fade 1s .2s backwards;
 }
 #exp-centre h6{
     padding: 0 .2vw;
     height: 50px;
     font-size: 18px;
     border-bottom: 1px solid #E9E9E9;
+    animation: p-fade 1s .2s backwards;
 }
 
 #exp-centre p{
@@ -626,6 +629,7 @@ nav a{
     letter-spacing: 1px;
     line-height: 2rem;
     align-items: center;
+    animation: p-fade 1s .4s backwards;
 }
 #exp-waste1{
     height: 4vh;
