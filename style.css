@@ -543,7 +543,7 @@ nav a{
     z-index: 1;
     overflow: hidden;
     transition: all ease .5s;
-    animation: h-fade 1s .8s backwards;
+    animation: h-fade 1s .6s backwards;
 }
 .contact-section button::after{
     content: '';
